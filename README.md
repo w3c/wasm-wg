@@ -1,4 +1,4 @@
-# W3C Web Assembly Working Group
+# W3C WebAssembly Working Group
 
 https://www.w3.org/wasm/
 
@@ -8,15 +8,15 @@ GitHub repositories are linked from each specification.
 
 * https://w3c.github.io/wasm/
 
-Web Assembly tests cannot be found in [web-platforms-tests][WPT]. @@ where are they?
+WebAssembly tests cannot be found in [web-platforms-tests][WPT]. @@ where are they?
 
-## Contributing to the Web Assembly Repositories
+## Contributing to the WebAssembly Repositories
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## History
 
-This repository used to contain editor's drafts from the Web Assembly Working Group.
+This repository used to contain editor's drafts from the WebAssembly Working Group.
 
 
 [WPT]: https://github.com/w3c/web-platform-tests/
