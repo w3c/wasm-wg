@@ -8,7 +8,7 @@ GitHub repositories are linked from each specification.
 
 * https://w3c.github.io/wasm/
 
-WebAssembly tests cannot be found in [web-platforms-tests][WPT]. @@ where are they?
+WebAssembly tests can be found in [web-platforms-tests][WPT].
 
 ## Contributing to the WebAssembly Repositories
 
@@ -19,4 +19,4 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md).
 This repository used to contain editor's drafts from the WebAssembly Working Group.
 
 
-[WPT]: https://github.com/w3c/web-platform-tests/
+[WPT]: https://github.com/web-platform-tests/wpt/tree/master/wasm
