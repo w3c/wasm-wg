@@ -1,6 +1,6 @@
 # W3C WebAssembly Working Group
 
-* [proposals](https://github.com/WebAssembly/proposals/blob/master/README.md)
+* [proposals](https://github.com/WebAssembly/proposals/blob/main/README.md)
 * [Working Group homepage](https://www.w3.org/wasm/)
 
 ## Specifications
